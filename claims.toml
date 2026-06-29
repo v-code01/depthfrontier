@@ -1,0 +1,57 @@
+# Every claim depthfrontier makes, each tied to the artifact that proves it.
+# Verify integrity with ./scripts/gate.sh; reproduce with ./reproduce.sh.
+
+[project]
+name = "depthfrontier"
+summary = "How long a chain of trivial single-digit additions a model can track before losing count, how the depth limit scales with model size, and how chain-of-thought moves it."
+language = "Python 3"
+license = "MIT"
+oracles = "ground truth is the Python sum of single-digit terms; the model's final integer is parsed and matched exactly. Greedy, temperature 0. No judge, no dataset."
+
+[[claim]]
+id = "pre-registered-prediction"
+statement = "The three-part prediction (accuracy falls with chain length despite trivial arithmetic; the smaller model's frontier is shorter; CoT extends the frontier) was written into the README before the full run, and all three held."
+evidence = "README pre-registered prediction; bench_results/frontier.md."
+status = "verified"
+
+[[claim]]
+id = "depth-limit-not-arithmetic"
+statement = "The direct depth limit is small and is not about arithmetic: every term is single-digit and trivial, yet the 1.5B sums only 4 of them at >=0.5 (0.07 at 8 terms) and the 0.5B only 3 (0.03 at 6 terms). The failure is tracking the running total, not the addition."
+evidence = "bench_results/frontier.md direct rows; tools/verify.py asserts direct accuracy collapses with chain length and the direct frontier is small for both models."
+status = "verified"
+
+[[claim]]
+id = "frontier-shrinks-with-size"
+statement = "The depth frontier shrinks with model size: the 0.5B's direct frontier is 3 terms versus the 1.5B's 4."
+evidence = "bench_results/frontier.md; tools/verify.py asserts the 0.5B direct frontier is no longer than the 1.5B's."
+status = "verified"
+
+[[claim]]
+id = "cot-rescues-the-capable-model"
+statement = "CoT rescues the capable model almost completely: the 1.5B's frontier moves from 4 to 16 terms (0.70 at 16), with a near-total rescue asymmetry of 171 fixed versus 2 broken, McNemar p=2.5e-48."
+evidence = "bench_results/frontier.md; tools/verify.py recomputes the frontier extension and paired rescue/sabotage counts."
+status = "verified"
+
+[[claim]]
+id = "rescue-scales-with-capability"
+statement = "The CoT rescue itself scales with capability: it barely helps the 0.5B (frontier 3 to 4, drifting to 0.25 at 8 terms and 0 by 12), because sustaining a running total over many steps is a capacity the small model lacks. The CoT depth extension is 12 terms for the 1.5B versus 1 for the 0.5B."
+evidence = "bench_results/frontier.md CoT rows; tools/verify.py asserts the CoT extension is far larger for the capable model."
+status = "verified"
+
+[[claim]]
+id = "cot-sign-depends-on-decomposition"
+statement = "The direction matches the arithmetic-magnitude result and is opposite to retrieval multiple choice: CoT helps where the task decomposes into steps (here, a running total) and in proportion to how well the model can carry it."
+evidence = "bench_results/frontier.md rescue-vs-sabotage counts; cross-reference to the arithmetic and multiple-choice studies."
+status = "verified"
+
+[[claim]]
+id = "no-overclaim"
+statement = "Two sizes, one operation, one prompt pair per condition, greedy, n=40 per cell. Single-digit terms deliberately isolate tracking depth from arithmetic. Not a claim about larger models or other operations. The adversarial review is in REVIEW.md."
+evidence = "README limitations + falsifiers; REVIEW.md."
+status = "verified"
+
+[[claim]]
+id = "clean-build"
+statement = "ruff-clean, mypy --strict clean, 6 pytest tests pass, sources are pure ASCII, the independent verify passes, and no private operating-environment details are present."
+evidence = "scripts/gate.sh."
+status = "verified"

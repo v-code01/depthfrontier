@@ -1,0 +1,640 @@
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 0, "terms": [3, 1], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 0, "terms": [3, 1], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 1, "terms": [7, 1], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 1, "terms": [7, 1], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 2, "terms": [2, 2], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 2, "terms": [2, 2], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 3, "terms": [4, 4], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 3, "terms": [4, 4], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 4, "terms": [2, 3], "gold": 5, "pred": 5, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 4, "terms": [2, 3], "gold": 5, "pred": 5, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 5, "terms": [1, 4], "gold": 5, "pred": 5, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 5, "terms": [1, 4], "gold": 5, "pred": 5, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 6, "terms": [1, 1], "gold": 2, "pred": 2, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 6, "terms": [1, 1], "gold": 2, "pred": 2, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 7, "terms": [3, 1], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 7, "terms": [3, 1], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 8, "terms": [1, 9], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 8, "terms": [1, 9], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 9, "terms": [3, 7], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 9, "terms": [3, 7], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 10, "terms": [7, 2], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 10, "terms": [7, 2], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 11, "terms": [6, 8], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 11, "terms": [6, 8], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 12, "terms": [9, 2], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 12, "terms": [9, 2], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 13, "terms": [2, 6], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 13, "terms": [2, 6], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 14, "terms": [7, 1], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 14, "terms": [7, 1], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 15, "terms": [7, 2], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 15, "terms": [7, 2], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 16, "terms": [1, 2], "gold": 3, "pred": 3, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 16, "terms": [1, 2], "gold": 3, "pred": 3, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 17, "terms": [4, 4], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 17, "terms": [4, 4], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 18, "terms": [2, 8], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 18, "terms": [2, 8], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 19, "terms": [4, 3], "gold": 7, "pred": 7, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 19, "terms": [4, 3], "gold": 7, "pred": 7, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 20, "terms": [9, 1], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 20, "terms": [9, 1], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 21, "terms": [6, 2], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 21, "terms": [6, 2], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 22, "terms": [9, 6], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 22, "terms": [9, 6], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 23, "terms": [1, 1], "gold": 2, "pred": 2, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 23, "terms": [1, 1], "gold": 2, "pred": 2, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 24, "terms": [4, 5], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 24, "terms": [4, 5], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 25, "terms": [8, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 25, "terms": [8, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 26, "terms": [7, 3], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 26, "terms": [7, 3], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 27, "terms": [2, 2], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 27, "terms": [2, 2], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 28, "terms": [8, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 28, "terms": [8, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 29, "terms": [4, 7], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 29, "terms": [4, 7], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 30, "terms": [9, 3], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 30, "terms": [9, 3], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 31, "terms": [3, 7], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 31, "terms": [3, 7], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 32, "terms": [4, 9], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 32, "terms": [4, 9], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 33, "terms": [1, 3], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 33, "terms": [1, 3], "gold": 4, "pred": 4, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 34, "terms": [8, 6], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 34, "terms": [8, 6], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 35, "terms": [8, 3], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 35, "terms": [8, 3], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 36, "terms": [4, 8], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 36, "terms": [4, 8], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 37, "terms": [7, 8], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 37, "terms": [7, 8], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 38, "terms": [8, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 38, "terms": [8, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "direct", "idx": 39, "terms": [7, 6], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 2, "cond": "cot", "idx": 39, "terms": [7, 6], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 0, "terms": [7, 8, 6], "gold": 21, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 0, "terms": [7, 8, 6], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 1, "terms": [6, 6, 6], "gold": 18, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 1, "terms": [6, 6, 6], "gold": 18, "pred": 18, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 2, "terms": [6, 7, 4], "gold": 17, "pred": 17, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 2, "terms": [6, 7, 4], "gold": 17, "pred": 17, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 3, "terms": [1, 1, 1], "gold": 3, "pred": 3, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 3, "terms": [1, 1, 1], "gold": 3, "pred": 3, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 4, "terms": [3, 9, 2], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 4, "terms": [3, 9, 2], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 5, "terms": [1, 1, 8], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 5, "terms": [1, 1, 8], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 6, "terms": [9, 4, 7], "gold": 20, "pred": 12, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 6, "terms": [9, 4, 7], "gold": 20, "pred": 20, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 7, "terms": [8, 4, 4], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 7, "terms": [8, 4, 4], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 8, "terms": [7, 7, 7], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 8, "terms": [7, 7, 7], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 9, "terms": [5, 8, 9], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 9, "terms": [5, 8, 9], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 10, "terms": [3, 8, 3], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 10, "terms": [3, 8, 3], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 11, "terms": [1, 9, 2], "gold": 12, "pred": 11, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 11, "terms": [1, 9, 2], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 12, "terms": [7, 5, 4], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 12, "terms": [7, 5, 4], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 13, "terms": [4, 8, 9], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 13, "terms": [4, 8, 9], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 14, "terms": [7, 6, 7], "gold": 20, "pred": 10, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 14, "terms": [7, 6, 7], "gold": 20, "pred": 20, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 15, "terms": [8, 5, 2], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 15, "terms": [8, 5, 2], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 16, "terms": [5, 3, 1], "gold": 9, "pred": 8, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 16, "terms": [5, 3, 1], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 17, "terms": [5, 7, 7], "gold": 19, "pred": 19, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 17, "terms": [5, 7, 7], "gold": 19, "pred": 19, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 18, "terms": [4, 2, 7], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 18, "terms": [4, 2, 7], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 19, "terms": [5, 1, 2], "gold": 8, "pred": 7, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 19, "terms": [5, 1, 2], "gold": 8, "pred": 8, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 20, "terms": [1, 8, 6], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 20, "terms": [1, 8, 6], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 21, "terms": [5, 7, 3], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 21, "terms": [5, 7, 3], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 22, "terms": [5, 2, 2], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 22, "terms": [5, 2, 2], "gold": 9, "pred": 9, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 23, "terms": [2, 1, 3], "gold": 6, "pred": 6, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 23, "terms": [2, 1, 3], "gold": 6, "pred": 6, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 24, "terms": [3, 6, 2], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 24, "terms": [3, 6, 2], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 25, "terms": [6, 5, 5], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 25, "terms": [6, 5, 5], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 26, "terms": [3, 4, 9], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 26, "terms": [3, 4, 9], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 27, "terms": [8, 3, 3], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 27, "terms": [8, 3, 3], "gold": 14, "pred": 14, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 28, "terms": [6, 7, 8], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 28, "terms": [6, 7, 8], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 29, "terms": [7, 2, 2], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 29, "terms": [7, 2, 2], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 30, "terms": [8, 4, 1], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 30, "terms": [8, 4, 1], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 31, "terms": [5, 5, 6], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 31, "terms": [5, 5, 6], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 32, "terms": [5, 9, 8], "gold": 22, "pred": 12, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 32, "terms": [5, 9, 8], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 33, "terms": [2, 4, 5], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 33, "terms": [2, 4, 5], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 34, "terms": [7, 9, 6], "gold": 22, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 34, "terms": [7, 9, 6], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 35, "terms": [6, 1, 5], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 35, "terms": [6, 1, 5], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 36, "terms": [1, 9, 1], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 36, "terms": [1, 9, 1], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 37, "terms": [5, 2, 6], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 37, "terms": [5, 2, 6], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 38, "terms": [6, 9, 4], "gold": 19, "pred": 19, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 38, "terms": [6, 9, 4], "gold": 19, "pred": 19, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "direct", "idx": 39, "terms": [6, 2, 2], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 3, "cond": "cot", "idx": 39, "terms": [6, 2, 2], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 0, "terms": [4, 3, 1, 4], "gold": 12, "pred": 9, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 0, "terms": [4, 3, 1, 4], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 1, "terms": [3, 9, 5, 1], "gold": 18, "pred": 19, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 1, "terms": [3, 9, 5, 1], "gold": 18, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 2, "terms": [8, 8, 2, 8], "gold": 26, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 2, "terms": [8, 8, 2, 8], "gold": 26, "pred": 26, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 3, "terms": [2, 8, 8, 9], "gold": 27, "pred": 25, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 3, "terms": [2, 8, 8, 9], "gold": 27, "pred": 27, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 4, "terms": [2, 1, 7, 9], "gold": 19, "pred": 19, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 4, "terms": [2, 1, 7, 9], "gold": 19, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 5, "terms": [7, 2, 1, 7], "gold": 17, "pred": 17, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 5, "terms": [7, 2, 1, 7], "gold": 17, "pred": 17, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 6, "terms": [5, 4, 8, 1], "gold": 18, "pred": 14, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 6, "terms": [5, 4, 8, 1], "gold": 18, "pred": 18, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 7, "terms": [3, 4, 3, 9], "gold": 19, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 7, "terms": [3, 4, 3, 9], "gold": 19, "pred": 23, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 8, "terms": [3, 1, 3, 5], "gold": 12, "pred": 13, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 8, "terms": [3, 1, 3, 5], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 9, "terms": [9, 3, 4, 4], "gold": 20, "pred": 16, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 9, "terms": [9, 3, 4, 4], "gold": 20, "pred": 20, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 10, "terms": [7, 8, 8, 3], "gold": 26, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 10, "terms": [7, 8, 8, 3], "gold": 26, "pred": 26, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 11, "terms": [8, 2, 4, 7], "gold": 21, "pred": 19, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 11, "terms": [8, 2, 4, 7], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 12, "terms": [1, 9, 8, 3], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 12, "terms": [1, 9, 8, 3], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 13, "terms": [2, 1, 8, 9], "gold": 20, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 13, "terms": [2, 1, 8, 9], "gold": 20, "pred": 20, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 14, "terms": [1, 7, 5, 8], "gold": 21, "pred": 17, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 14, "terms": [1, 7, 5, 8], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 15, "terms": [5, 8, 7, 1], "gold": 21, "pred": 16, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 15, "terms": [5, 8, 7, 1], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 16, "terms": [2, 9, 3, 4], "gold": 18, "pred": 18, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 16, "terms": [2, 9, 3, 4], "gold": 18, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 17, "terms": [7, 5, 2, 8], "gold": 22, "pred": 12, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 17, "terms": [7, 5, 2, 8], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 18, "terms": [7, 8, 5, 7], "gold": 27, "pred": 25, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 18, "terms": [7, 8, 5, 7], "gold": 27, "pred": 25, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 19, "terms": [6, 5, 8, 9], "gold": 28, "pred": 28, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 19, "terms": [6, 5, 8, 9], "gold": 28, "pred": 28, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 20, "terms": [2, 1, 8, 7], "gold": 18, "pred": 18, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 20, "terms": [2, 1, 8, 7], "gold": 18, "pred": 18, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 21, "terms": [2, 1, 5, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 21, "terms": [2, 1, 5, 7], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 22, "terms": [2, 2, 2, 6], "gold": 12, "pred": 10, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 22, "terms": [2, 2, 2, 6], "gold": 12, "pred": 12, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 23, "terms": [3, 8, 4, 5], "gold": 20, "pred": 16, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 23, "terms": [3, 8, 4, 5], "gold": 20, "pred": 20, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 24, "terms": [7, 1, 2, 1], "gold": 11, "pred": 10, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 24, "terms": [7, 1, 2, 1], "gold": 11, "pred": 11, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 25, "terms": [7, 4, 5, 2], "gold": 18, "pred": 14, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 25, "terms": [7, 4, 5, 2], "gold": 18, "pred": 18, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 26, "terms": [8, 9, 9, 9], "gold": 35, "pred": 35, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 26, "terms": [8, 9, 9, 9], "gold": 35, "pred": 35, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 27, "terms": [4, 6, 1, 5], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 27, "terms": [4, 6, 1, 5], "gold": 16, "pred": 16, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 28, "terms": [5, 6, 9, 2], "gold": 22, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 28, "terms": [5, 6, 9, 2], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 29, "terms": [5, 4, 8, 6], "gold": 23, "pred": 23, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 29, "terms": [5, 4, 8, 6], "gold": 23, "pred": 23, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 30, "terms": [1, 9, 1, 4], "gold": 15, "pred": 14, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 30, "terms": [1, 9, 1, 4], "gold": 15, "pred": 15, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 31, "terms": [8, 5, 9, 4], "gold": 26, "pred": 26, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 31, "terms": [8, 5, 9, 4], "gold": 26, "pred": 26, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 32, "terms": [1, 7, 6, 8], "gold": 22, "pred": 16, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 32, "terms": [1, 7, 6, 8], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 33, "terms": [5, 1, 4, 3], "gold": 13, "pred": 12, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 33, "terms": [5, 1, 4, 3], "gold": 13, "pred": 13, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 34, "terms": [3, 1, 4, 2], "gold": 10, "pred": 9, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 34, "terms": [3, 1, 4, 2], "gold": 10, "pred": 10, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 35, "terms": [8, 9, 8, 5], "gold": 30, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 35, "terms": [8, 9, 8, 5], "gold": 30, "pred": 30, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 36, "terms": [3, 5, 9, 5], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 36, "terms": [3, 5, 9, 5], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 37, "terms": [9, 1, 4, 5], "gold": 19, "pred": 19, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 37, "terms": [9, 1, 4, 5], "gold": 19, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 38, "terms": [9, 6, 5, 1], "gold": 21, "pred": 12, "correct": false}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 38, "terms": [9, 6, 5, 1], "gold": 21, "pred": 21, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "direct", "idx": 39, "terms": [6, 6, 3, 4], "gold": 19, "pred": 19, "correct": true}
+{"model": "qwen-dp05", "k": 4, "cond": "cot", "idx": 39, "terms": [6, 6, 3, 4], "gold": 19, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 0, "terms": [3, 5, 8, 3, 2, 1], "gold": 22, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 0, "terms": [3, 5, 8, 3, 2, 1], "gold": 22, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 1, "terms": [9, 9, 3, 8, 3, 6], "gold": 38, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 1, "terms": [9, 9, 3, 8, 3, 6], "gold": 38, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 2, "terms": [2, 8, 1, 7, 9, 6], "gold": 33, "pred": 27, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 2, "terms": [2, 8, 1, 7, 9, 6], "gold": 33, "pred": 33, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 3, "terms": [9, 9, 6, 2, 4, 6], "gold": 36, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 3, "terms": [9, 9, 6, 2, 4, 6], "gold": 36, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 4, "terms": [6, 8, 7, 1, 1, 1], "gold": 24, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 4, "terms": [6, 8, 7, 1, 1, 1], "gold": 24, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 5, "terms": [3, 4, 7, 8, 5, 1], "gold": 28, "pred": 23, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 5, "terms": [3, 4, 7, 8, 5, 1], "gold": 28, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 6, "terms": [7, 9, 2, 9, 8, 5], "gold": 40, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 6, "terms": [7, 9, 2, 9, 8, 5], "gold": 40, "pred": 46, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 7, "terms": [8, 2, 2, 9, 9, 1], "gold": 31, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 7, "terms": [8, 2, 2, 9, 9, 1], "gold": 31, "pred": 33, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 8, "terms": [8, 3, 6, 1, 5, 1], "gold": 24, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 8, "terms": [8, 3, 6, 1, 5, 1], "gold": 24, "pred": 24, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 9, "terms": [6, 1, 7, 9, 6, 6], "gold": 35, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 9, "terms": [6, 1, 7, 9, 6, 6], "gold": 35, "pred": 34, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 10, "terms": [7, 9, 2, 4, 8, 8], "gold": 38, "pred": 27, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 10, "terms": [7, 9, 2, 4, 8, 8], "gold": 38, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 11, "terms": [2, 7, 8, 5, 4, 7], "gold": 33, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 11, "terms": [2, 7, 8, 5, 4, 7], "gold": 33, "pred": 33, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 12, "terms": [3, 6, 7, 4, 6, 4], "gold": 30, "pred": 25, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 12, "terms": [3, 6, 7, 4, 6, 4], "gold": 30, "pred": 30, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 13, "terms": [1, 7, 1, 7, 8, 7], "gold": 31, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 13, "terms": [1, 7, 1, 7, 8, 7], "gold": 31, "pred": 34, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 14, "terms": [6, 1, 3, 8, 2, 4], "gold": 24, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 14, "terms": [6, 1, 3, 8, 2, 4], "gold": 24, "pred": 24, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 15, "terms": [4, 1, 8, 1, 4, 5], "gold": 23, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 15, "terms": [4, 1, 8, 1, 4, 5], "gold": 23, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 16, "terms": [9, 2, 5, 2, 8, 1], "gold": 27, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 16, "terms": [9, 2, 5, 2, 8, 1], "gold": 27, "pred": 27, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 17, "terms": [1, 6, 9, 2, 1, 6], "gold": 25, "pred": 25, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 17, "terms": [1, 6, 9, 2, 1, 6], "gold": 25, "pred": 25, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 18, "terms": [2, 9, 4, 6, 5, 6], "gold": 32, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 18, "terms": [2, 9, 4, 6, 5, 6], "gold": 32, "pred": 30, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 19, "terms": [1, 2, 4, 2, 7, 6], "gold": 22, "pred": 17, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 19, "terms": [1, 2, 4, 2, 7, 6], "gold": 22, "pred": 22, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 20, "terms": [4, 2, 8, 4, 1, 2], "gold": 21, "pred": 15, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 20, "terms": [4, 2, 8, 4, 1, 2], "gold": 21, "pred": 23, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 21, "terms": [4, 1, 1, 7, 9, 7], "gold": 29, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 21, "terms": [4, 1, 1, 7, 9, 7], "gold": 29, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 22, "terms": [5, 6, 6, 7, 1, 9], "gold": 34, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 22, "terms": [5, 6, 6, 7, 1, 9], "gold": 34, "pred": 34, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 23, "terms": [5, 8, 1, 7, 5, 8], "gold": 34, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 23, "terms": [5, 8, 1, 7, 5, 8], "gold": 34, "pred": 32, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 24, "terms": [5, 1, 8, 9, 6, 2], "gold": 31, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 24, "terms": [5, 1, 8, 9, 6, 2], "gold": 31, "pred": 31, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 25, "terms": [5, 6, 3, 1, 3, 6], "gold": 24, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 25, "terms": [5, 6, 3, 1, 3, 6], "gold": 24, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 26, "terms": [1, 6, 5, 9, 4, 5], "gold": 30, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 26, "terms": [1, 6, 5, 9, 4, 5], "gold": 30, "pred": 30, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 27, "terms": [7, 4, 2, 1, 1, 9], "gold": 24, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 27, "terms": [7, 4, 2, 1, 1, 9], "gold": 24, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 28, "terms": [1, 9, 7, 9, 5, 4], "gold": 35, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 28, "terms": [1, 9, 7, 9, 5, 4], "gold": 35, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 29, "terms": [3, 3, 9, 9, 9, 9], "gold": 42, "pred": 39, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 29, "terms": [3, 3, 9, 9, 9, 9], "gold": 42, "pred": 42, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 30, "terms": [4, 1, 9, 5, 6, 1], "gold": 26, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 30, "terms": [4, 1, 9, 5, 6, 1], "gold": 26, "pred": 26, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 31, "terms": [2, 3, 4, 7, 4, 8], "gold": 28, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 31, "terms": [2, 3, 4, 7, 4, 8], "gold": 28, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 32, "terms": [2, 3, 4, 3, 3, 8], "gold": 23, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 32, "terms": [2, 3, 4, 3, 3, 8], "gold": 23, "pred": 23, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 33, "terms": [7, 8, 8, 3, 3, 4], "gold": 33, "pred": 37, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 33, "terms": [7, 8, 8, 3, 3, 4], "gold": 33, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 34, "terms": [8, 4, 5, 4, 5, 6], "gold": 32, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 34, "terms": [8, 4, 5, 4, 5, 6], "gold": 32, "pred": 30, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 35, "terms": [1, 6, 4, 1, 8, 5], "gold": 25, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 35, "terms": [1, 6, 4, 1, 8, 5], "gold": 25, "pred": 27, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 36, "terms": [8, 3, 3, 1, 8, 1], "gold": 24, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 36, "terms": [8, 3, 3, 1, 8, 1], "gold": 24, "pred": 24, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 37, "terms": [6, 7, 3, 4, 7, 3], "gold": 30, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 37, "terms": [6, 7, 3, 4, 7, 3], "gold": 30, "pred": 30, "correct": true}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 38, "terms": [9, 9, 3, 7, 9, 5], "gold": 42, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 38, "terms": [9, 9, 3, 7, 9, 5], "gold": 42, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "direct", "idx": 39, "terms": [6, 5, 6, 8, 7, 2], "gold": 34, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 6, "cond": "cot", "idx": 39, "terms": [6, 5, 6, 8, 7, 2], "gold": 34, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 0, "terms": [2, 3, 3, 7, 8, 8, 7, 2], "gold": 40, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 0, "terms": [2, 3, 3, 7, 8, 8, 7, 2], "gold": 40, "pred": 40, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 1, "terms": [1, 8, 1, 1, 3, 5, 5, 8], "gold": 32, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 1, "terms": [1, 8, 1, 1, 3, 5, 5, 8], "gold": 32, "pred": 32, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 2, "terms": [2, 9, 9, 1, 6, 1, 7, 4], "gold": 39, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 2, "terms": [2, 9, 9, 1, 6, 1, 7, 4], "gold": 39, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 3, "terms": [8, 5, 1, 2, 8, 2, 9, 6], "gold": 41, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 3, "terms": [8, 5, 1, 2, 8, 2, 9, 6], "gold": 41, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 4, "terms": [9, 1, 6, 8, 9, 3, 9, 2], "gold": 47, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 4, "terms": [9, 1, 6, 8, 9, 3, 9, 2], "gold": 47, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 5, "terms": [4, 7, 9, 1, 8, 3, 2, 1], "gold": 35, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 5, "terms": [4, 7, 9, 1, 8, 3, 2, 1], "gold": 35, "pred": 35, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 6, "terms": [3, 1, 1, 5, 2, 3, 6, 1], "gold": 22, "pred": 20, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 6, "terms": [3, 1, 1, 5, 2, 3, 6, 1], "gold": 22, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 7, "terms": [1, 6, 6, 4, 1, 7, 5, 5], "gold": 35, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 7, "terms": [1, 6, 6, 4, 1, 7, 5, 5], "gold": 35, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 8, "terms": [3, 4, 7, 3, 3, 5, 3, 9], "gold": 37, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 8, "terms": [3, 4, 7, 3, 3, 5, 3, 9], "gold": 37, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 9, "terms": [3, 9, 2, 2, 3, 7, 4, 8], "gold": 38, "pred": 25, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 9, "terms": [3, 9, 2, 2, 3, 7, 4, 8], "gold": 38, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 10, "terms": [4, 5, 9, 7, 3, 3, 5, 6], "gold": 42, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 10, "terms": [4, 5, 9, 7, 3, 3, 5, 6], "gold": 42, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 11, "terms": [2, 3, 8, 4, 7, 7, 6, 3], "gold": 40, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 11, "terms": [2, 3, 8, 4, 7, 7, 6, 3], "gold": 40, "pred": 40, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 12, "terms": [4, 9, 1, 6, 4, 9, 4, 8], "gold": 45, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 12, "terms": [4, 9, 1, 6, 4, 9, 4, 8], "gold": 45, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 13, "terms": [1, 1, 1, 4, 4, 4, 9, 3], "gold": 27, "pred": 25, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 13, "terms": [1, 1, 1, 4, 4, 4, 9, 3], "gold": 27, "pred": 26, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 14, "terms": [1, 9, 4, 7, 8, 3, 3, 3], "gold": 38, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 14, "terms": [1, 9, 4, 7, 8, 3, 3, 3], "gold": 38, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 15, "terms": [6, 6, 9, 7, 5, 1, 2, 8], "gold": 44, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 15, "terms": [6, 6, 9, 7, 5, 1, 2, 8], "gold": 44, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 16, "terms": [4, 1, 9, 6, 1, 5, 9, 9], "gold": 44, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 16, "terms": [4, 1, 9, 6, 1, 5, 9, 9], "gold": 44, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 17, "terms": [9, 2, 3, 8, 7, 9, 3, 6], "gold": 47, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 17, "terms": [9, 2, 3, 8, 7, 9, 3, 6], "gold": 47, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 18, "terms": [4, 2, 7, 6, 9, 8, 3, 1], "gold": 40, "pred": 27, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 18, "terms": [4, 2, 7, 6, 9, 8, 3, 1], "gold": 40, "pred": 40, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 19, "terms": [9, 5, 9, 8, 4, 9, 7, 4], "gold": 55, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 19, "terms": [9, 5, 9, 8, 4, 9, 7, 4], "gold": 55, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 20, "terms": [4, 8, 6, 8, 7, 1, 6, 5], "gold": 45, "pred": 45, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 20, "terms": [4, 8, 6, 8, 7, 1, 6, 5], "gold": 45, "pred": 45, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 21, "terms": [4, 9, 3, 2, 2, 7, 7, 9], "gold": 43, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 21, "terms": [4, 9, 3, 2, 2, 7, 7, 9], "gold": 43, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 22, "terms": [5, 4, 7, 2, 3, 8, 6, 8], "gold": 43, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 22, "terms": [5, 4, 7, 2, 3, 8, 6, 8], "gold": 43, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 23, "terms": [8, 6, 6, 3, 9, 7, 2, 5], "gold": 46, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 23, "terms": [8, 6, 6, 3, 9, 7, 2, 5], "gold": 46, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 24, "terms": [1, 1, 2, 7, 1, 5, 5, 4], "gold": 26, "pred": 21, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 24, "terms": [1, 1, 2, 7, 1, 5, 5, 4], "gold": 26, "pred": 26, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 25, "terms": [6, 4, 5, 6, 7, 1, 9, 3], "gold": 41, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 25, "terms": [6, 4, 5, 6, 7, 1, 9, 3], "gold": 41, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 26, "terms": [9, 1, 4, 3, 4, 1, 3, 1], "gold": 26, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 26, "terms": [9, 1, 4, 3, 4, 1, 3, 1], "gold": 26, "pred": 9, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 27, "terms": [5, 3, 8, 6, 3, 7, 4, 1], "gold": 37, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 27, "terms": [5, 3, 8, 6, 3, 7, 4, 1], "gold": 37, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 28, "terms": [8, 6, 6, 9, 9, 9, 9, 5], "gold": 61, "pred": 54, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 28, "terms": [8, 6, 6, 9, 9, 9, 9, 5], "gold": 61, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 29, "terms": [5, 8, 3, 6, 5, 7, 5, 1], "gold": 40, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 29, "terms": [5, 8, 3, 6, 5, 7, 5, 1], "gold": 40, "pred": 40, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 30, "terms": [5, 3, 1, 4, 8, 9, 1, 9], "gold": 40, "pred": 24, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 30, "terms": [5, 3, 1, 4, 8, 9, 1, 9], "gold": 40, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 31, "terms": [6, 5, 7, 4, 3, 4, 8, 5], "gold": 42, "pred": 39, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 31, "terms": [6, 5, 7, 4, 3, 4, 8, 5], "gold": 42, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 32, "terms": [4, 9, 3, 3, 5, 1, 7, 8], "gold": 40, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 32, "terms": [4, 9, 3, 3, 5, 1, 7, 8], "gold": 40, "pred": 40, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 33, "terms": [3, 5, 6, 6, 6, 3, 5, 3], "gold": 37, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 33, "terms": [3, 5, 6, 6, 6, 3, 5, 3], "gold": 37, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 34, "terms": [8, 6, 4, 3, 5, 5, 1, 7], "gold": 39, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 34, "terms": [8, 6, 4, 3, 5, 5, 1, 7], "gold": 39, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 35, "terms": [1, 4, 8, 6, 9, 4, 1, 3], "gold": 36, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 35, "terms": [1, 4, 8, 6, 9, 4, 1, 3], "gold": 36, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 36, "terms": [5, 1, 7, 7, 3, 5, 9, 3], "gold": 40, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 36, "terms": [5, 1, 7, 7, 3, 5, 9, 3], "gold": 40, "pred": 40, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 37, "terms": [8, 8, 2, 6, 9, 3, 6, 3], "gold": 45, "pred": 45, "correct": true}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 37, "terms": [8, 8, 2, 6, 9, 3, 6, 3], "gold": 45, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 38, "terms": [3, 3, 6, 3, 1, 6, 5, 4], "gold": 31, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 38, "terms": [3, 3, 6, 3, 1, 6, 5, 4], "gold": 31, "pred": 30, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "direct", "idx": 39, "terms": [5, 4, 8, 1, 4, 2, 2, 1], "gold": 27, "pred": 22, "correct": false}
+{"model": "qwen-dp05", "k": 8, "cond": "cot", "idx": 39, "terms": [5, 4, 8, 1, 4, 2, 2, 1], "gold": 27, "pred": 25, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 0, "terms": [3, 9, 2, 6, 2, 6, 5, 1, 3, 2], "gold": 39, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 0, "terms": [3, 9, 2, 6, 2, 6, 5, 1, 3, 2], "gold": 39, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 1, "terms": [8, 8, 2, 7, 2, 4, 6, 6, 8, 8], "gold": 59, "pred": 68, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 1, "terms": [8, 8, 2, 7, 2, 4, 6, 6, 8, 8], "gold": 59, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 2, "terms": [2, 2, 2, 9, 3, 1, 2, 7, 9, 8], "gold": 45, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 2, "terms": [2, 2, 2, 9, 3, 1, 2, 7, 9, 8], "gold": 45, "pred": 45, "correct": true}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 3, "terms": [7, 3, 9, 3, 4, 8, 5, 3, 6, 5], "gold": 53, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 3, "terms": [7, 3, 9, 3, 4, 8, 5, 3, 6, 5], "gold": 53, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 4, "terms": [8, 2, 2, 8, 9, 7, 3, 3, 9, 3], "gold": 54, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 4, "terms": [8, 2, 2, 8, 9, 7, 3, 3, 9, 3], "gold": 54, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 5, "terms": [1, 7, 7, 9, 9, 6, 5, 4, 2, 1], "gold": 51, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 5, "terms": [1, 7, 7, 9, 9, 6, 5, 4, 2, 1], "gold": 51, "pred": 15, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 6, "terms": [5, 5, 3, 3, 1, 4, 1, 6, 8, 2], "gold": 38, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 6, "terms": [5, 5, 3, 3, 1, 4, 1, 6, 8, 2], "gold": 38, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 7, "terms": [4, 7, 9, 1, 7, 4, 8, 3, 1, 6], "gold": 50, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 7, "terms": [4, 7, 9, 1, 7, 4, 8, 3, 1, 6], "gold": 50, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 8, "terms": [1, 9, 2, 9, 3, 8, 8, 3, 8, 6], "gold": 57, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 8, "terms": [1, 9, 2, 9, 3, 8, 8, 3, 8, 6], "gold": 57, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 9, "terms": [4, 3, 4, 4, 7, 7, 9, 1, 7, 3], "gold": 49, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 9, "terms": [4, 3, 4, 4, 7, 7, 9, 1, 7, 3], "gold": 49, "pred": 42, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 10, "terms": [2, 6, 1, 8, 7, 3, 9, 7, 7, 1], "gold": 51, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 10, "terms": [2, 6, 1, 8, 7, 3, 9, 7, 7, 1], "gold": 51, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 11, "terms": [4, 5, 8, 3, 8, 6, 1, 8, 8, 2], "gold": 53, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 11, "terms": [4, 5, 8, 3, 8, 6, 1, 8, 8, 2], "gold": 53, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 12, "terms": [6, 4, 2, 2, 3, 6, 2, 7, 6, 6], "gold": 44, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 12, "terms": [6, 4, 2, 2, 3, 6, 2, 7, 6, 6], "gold": 44, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 13, "terms": [6, 4, 1, 1, 5, 6, 2, 9, 5, 8], "gold": 47, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 13, "terms": [6, 4, 1, 1, 5, 6, 2, 9, 5, 8], "gold": 47, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 14, "terms": [8, 8, 3, 1, 6, 7, 8, 8, 4, 2], "gold": 55, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 14, "terms": [8, 8, 3, 1, 6, 7, 8, 8, 4, 2], "gold": 55, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 15, "terms": [9, 6, 6, 2, 5, 4, 8, 2, 3, 2], "gold": 47, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 15, "terms": [9, 6, 6, 2, 5, 4, 8, 2, 3, 2], "gold": 47, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 16, "terms": [4, 6, 4, 6, 5, 3, 4, 8, 7, 2], "gold": 49, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 16, "terms": [4, 6, 4, 6, 5, 3, 4, 8, 7, 2], "gold": 49, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 17, "terms": [6, 5, 7, 9, 3, 7, 1, 8, 4, 8], "gold": 58, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 17, "terms": [6, 5, 7, 9, 3, 7, 1, 8, 4, 8], "gold": 58, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 18, "terms": [3, 2, 9, 8, 5, 4, 8, 5, 8, 1], "gold": 53, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 18, "terms": [3, 2, 9, 8, 5, 4, 8, 5, 8, 1], "gold": 53, "pred": 19, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 19, "terms": [8, 4, 8, 9, 4, 7, 7, 4, 6, 5], "gold": 62, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 19, "terms": [8, 4, 8, 9, 4, 7, 7, 4, 6, 5], "gold": 62, "pred": 64, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 20, "terms": [3, 2, 8, 9, 7, 8, 7, 2, 8, 8], "gold": 62, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 20, "terms": [3, 2, 8, 9, 7, 8, 7, 2, 8, 8], "gold": 62, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 21, "terms": [3, 7, 7, 2, 4, 4, 3, 6, 8, 1], "gold": 45, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 21, "terms": [3, 7, 7, 2, 4, 4, 3, 6, 8, 1], "gold": 45, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 22, "terms": [6, 1, 4, 5, 1, 5, 6, 8, 4, 6], "gold": 46, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 22, "terms": [6, 1, 4, 5, 1, 5, 6, 8, 4, 6], "gold": 46, "pred": 52, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 23, "terms": [9, 8, 3, 9, 1, 4, 3, 6, 8, 2], "gold": 53, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 23, "terms": [9, 8, 3, 9, 1, 4, 3, 6, 8, 2], "gold": 53, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 24, "terms": [1, 5, 8, 2, 4, 8, 5, 5, 2, 7], "gold": 47, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 24, "terms": [1, 5, 8, 2, 4, 8, 5, 5, 2, 7], "gold": 47, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 25, "terms": [5, 8, 1, 5, 6, 7, 8, 9, 1, 3], "gold": 53, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 25, "terms": [5, 8, 1, 5, 6, 7, 8, 9, 1, 3], "gold": 53, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 26, "terms": [6, 8, 9, 1, 7, 9, 7, 6, 8, 4], "gold": 65, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 26, "terms": [6, 8, 9, 1, 7, 9, 7, 6, 8, 4], "gold": 65, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 27, "terms": [3, 2, 5, 9, 2, 4, 4, 7, 4, 1], "gold": 41, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 27, "terms": [3, 2, 5, 9, 2, 4, 4, 7, 4, 1], "gold": 41, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 28, "terms": [8, 2, 3, 5, 9, 3, 2, 6, 5, 1], "gold": 44, "pred": 29, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 28, "terms": [8, 2, 3, 5, 9, 3, 2, 6, 5, 1], "gold": 44, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 29, "terms": [1, 1, 7, 6, 6, 8, 9, 4, 9, 2], "gold": 53, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 29, "terms": [1, 1, 7, 6, 6, 8, 9, 4, 9, 2], "gold": 53, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 30, "terms": [4, 7, 4, 3, 9, 4, 7, 2, 3, 9], "gold": 52, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 30, "terms": [4, 7, 4, 3, 9, 4, 7, 2, 3, 9], "gold": 52, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 31, "terms": [4, 3, 5, 2, 9, 7, 2, 2, 2, 9], "gold": 45, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 31, "terms": [4, 3, 5, 2, 9, 7, 2, 2, 2, 9], "gold": 45, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 32, "terms": [1, 2, 8, 9, 1, 1, 2, 7, 9, 1], "gold": 41, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 32, "terms": [1, 2, 8, 9, 1, 1, 2, 7, 9, 1], "gold": 41, "pred": 10, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 33, "terms": [5, 3, 3, 6, 8, 8, 4, 6, 3, 6], "gold": 52, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 33, "terms": [5, 3, 3, 6, 8, 8, 4, 6, 3, 6], "gold": 52, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 34, "terms": [3, 4, 8, 2, 5, 7, 2, 1, 4, 7], "gold": 43, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 34, "terms": [3, 4, 8, 2, 5, 7, 2, 1, 4, 7], "gold": 43, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 35, "terms": [2, 2, 3, 1, 7, 8, 3, 5, 6, 2], "gold": 39, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 35, "terms": [2, 2, 3, 1, 7, 8, 3, 5, 6, 2], "gold": 39, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 36, "terms": [8, 3, 5, 2, 1, 5, 2, 1, 2, 9], "gold": 38, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 36, "terms": [8, 3, 5, 2, 1, 5, 2, 1, 2, 9], "gold": 38, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 37, "terms": [2, 4, 4, 4, 5, 9, 9, 6, 6, 3], "gold": 52, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 37, "terms": [2, 4, 4, 4, 5, 9, 9, 6, 6, 3], "gold": 52, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 38, "terms": [2, 9, 3, 7, 6, 2, 6, 9, 7, 1], "gold": 52, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 38, "terms": [2, 9, 3, 7, 6, 2, 6, 9, 7, 1], "gold": 52, "pred": 54, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "direct", "idx": 39, "terms": [4, 5, 9, 4, 3, 8, 1, 6, 8, 4], "gold": 52, "pred": 39, "correct": false}
+{"model": "qwen-dp05", "k": 10, "cond": "cot", "idx": 39, "terms": [4, 5, 9, 4, 3, 8, 1, 6, 8, 4], "gold": 52, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 0, "terms": [1, 8, 3, 6, 3, 2, 4, 9, 2, 4, 3, 3], "gold": 48, "pred": 38, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 0, "terms": [1, 8, 3, 6, 3, 2, 4, 9, 2, 4, 3, 3], "gold": 48, "pred": 10, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 1, "terms": [7, 4, 7, 5, 5, 5, 7, 4, 1, 8, 9, 6], "gold": 68, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 1, "terms": [7, 4, 7, 5, 5, 5, 7, 4, 1, 8, 9, 6], "gold": 68, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 2, "terms": [1, 9, 9, 3, 2, 8, 4, 4, 5, 9, 6, 7], "gold": 67, "pred": 58, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 2, "terms": [1, 9, 9, 3, 2, 8, 4, 4, 5, 9, 6, 7], "gold": 67, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 3, "terms": [7, 6, 8, 9, 3, 8, 4, 8, 2, 8, 2, 9], "gold": 74, "pred": 62, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 3, "terms": [7, 6, 8, 9, 3, 8, 4, 8, 2, 8, 2, 9], "gold": 74, "pred": 75, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 4, "terms": [5, 8, 6, 5, 9, 3, 4, 3, 7, 5, 4, 9], "gold": 68, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 4, "terms": [5, 8, 6, 5, 9, 3, 4, 3, 7, 5, 4, 9], "gold": 68, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 5, "terms": [3, 3, 1, 1, 6, 1, 7, 7, 2, 3, 2, 7], "gold": 43, "pred": 32, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 5, "terms": [3, 3, 1, 1, 6, 1, 7, 7, 2, 3, 2, 7], "gold": 43, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 6, "terms": [2, 9, 7, 2, 4, 6, 6, 4, 3, 1, 5, 1], "gold": 50, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 6, "terms": [2, 9, 7, 2, 4, 6, 6, 4, 3, 1, 5, 1], "gold": 50, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 7, "terms": [7, 1, 7, 2, 2, 9, 5, 5, 7, 3, 5, 4], "gold": 57, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 7, "terms": [7, 1, 7, 2, 2, 9, 5, 5, 7, 3, 5, 4], "gold": 57, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 8, "terms": [8, 9, 6, 7, 9, 5, 3, 6, 8, 1, 6, 8], "gold": 76, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 8, "terms": [8, 9, 6, 7, 9, 5, 3, 6, 8, 1, 6, 8], "gold": 76, "pred": 75, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 9, "terms": [1, 9, 1, 8, 7, 9, 9, 1, 7, 8, 2, 2], "gold": 64, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 9, "terms": [1, 9, 1, 8, 7, 9, 9, 1, 7, 8, 2, 2], "gold": 64, "pred": 15, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 10, "terms": [4, 1, 5, 8, 6, 1, 8, 8, 5, 3, 4, 4], "gold": 57, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 10, "terms": [4, 1, 5, 8, 6, 1, 8, 8, 5, 3, 4, 4], "gold": 57, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 11, "terms": [3, 8, 4, 6, 7, 1, 9, 7, 6, 7, 7, 1], "gold": 66, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 11, "terms": [3, 8, 4, 6, 7, 1, 9, 7, 6, 7, 7, 1], "gold": 66, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 12, "terms": [1, 2, 5, 1, 7, 5, 8, 8, 1, 1, 8, 9], "gold": 56, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 12, "terms": [1, 2, 5, 1, 7, 5, 8, 8, 1, 1, 8, 9], "gold": 56, "pred": 15, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 13, "terms": [4, 2, 4, 8, 2, 7, 7, 6, 4, 3, 9, 4], "gold": 60, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 13, "terms": [4, 2, 4, 8, 2, 7, 7, 6, 4, 3, 9, 4], "gold": 60, "pred": 4, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 14, "terms": [3, 3, 9, 9, 5, 9, 9, 2, 7, 7, 2, 5], "gold": 70, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 14, "terms": [3, 3, 9, 9, 5, 9, 9, 2, 7, 7, 2, 5], "gold": 70, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 15, "terms": [9, 6, 7, 7, 7, 2, 8, 4, 1, 3, 7, 5], "gold": 66, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 15, "terms": [9, 6, 7, 7, 7, 2, 8, 4, 1, 3, 7, 5], "gold": 66, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 16, "terms": [7, 7, 6, 8, 6, 8, 8, 5, 3, 2, 1, 7], "gold": 68, "pred": 68, "correct": true}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 16, "terms": [7, 7, 6, 8, 6, 8, 8, 5, 3, 2, 1, 7], "gold": 68, "pred": 65, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 17, "terms": [2, 2, 3, 8, 3, 6, 7, 3, 6, 5, 8, 2], "gold": 55, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 17, "terms": [2, 2, 3, 8, 3, 6, 7, 3, 6, 5, 8, 2], "gold": 55, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 18, "terms": [5, 2, 8, 5, 5, 1, 2, 2, 9, 2, 1, 9], "gold": 51, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 18, "terms": [5, 2, 8, 5, 5, 1, 2, 2, 9, 2, 1, 9], "gold": 51, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 19, "terms": [6, 1, 4, 4, 7, 7, 3, 9, 4, 7, 1, 6], "gold": 59, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 19, "terms": [6, 1, 4, 4, 7, 7, 3, 9, 4, 7, 1, 6], "gold": 59, "pred": 6, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 20, "terms": [3, 2, 4, 6, 3, 1, 3, 3, 3, 1, 3, 7], "gold": 39, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 20, "terms": [3, 2, 4, 6, 3, 1, 3, 3, 3, 1, 3, 7], "gold": 39, "pred": 32, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 21, "terms": [3, 3, 4, 3, 2, 2, 2, 6, 6, 2, 4, 5], "gold": 42, "pred": 42, "correct": true}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 21, "terms": [3, 3, 4, 3, 2, 2, 2, 6, 6, 2, 4, 5], "gold": 42, "pred": 40, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 22, "terms": [5, 6, 1, 7, 3, 4, 7, 7, 9, 5, 9, 2], "gold": 65, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 22, "terms": [5, 6, 1, 7, 3, 4, 7, 7, 9, 5, 9, 2], "gold": 65, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 23, "terms": [9, 3, 3, 8, 2, 7, 6, 5, 9, 7, 6, 5], "gold": 70, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 23, "terms": [9, 3, 3, 8, 2, 7, 6, 5, 9, 7, 6, 5], "gold": 70, "pred": 64, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 24, "terms": [6, 2, 6, 7, 6, 5, 8, 4, 9, 7, 6, 7], "gold": 73, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 24, "terms": [6, 2, 6, 7, 6, 5, 8, 4, 9, 7, 6, 7], "gold": 73, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 25, "terms": [8, 5, 7, 9, 1, 5, 6, 3, 1, 9, 4, 2], "gold": 60, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 25, "terms": [8, 5, 7, 9, 1, 5, 6, 3, 1, 9, 4, 2], "gold": 60, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 26, "terms": [3, 5, 3, 1, 6, 1, 6, 7, 7, 4, 4, 6], "gold": 53, "pred": 36, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 26, "terms": [3, 5, 3, 1, 6, 1, 6, 7, 7, 4, 4, 6], "gold": 53, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 27, "terms": [5, 2, 4, 7, 6, 2, 9, 3, 4, 6, 3, 4], "gold": 55, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 27, "terms": [5, 2, 4, 7, 6, 2, 9, 3, 4, 6, 3, 4], "gold": 55, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 28, "terms": [9, 6, 9, 8, 3, 9, 7, 1, 6, 9, 1, 2], "gold": 70, "pred": 58, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 28, "terms": [9, 6, 9, 8, 3, 9, 7, 1, 6, 9, 1, 2], "gold": 70, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 29, "terms": [1, 5, 7, 4, 6, 2, 3, 8, 7, 6, 2, 8], "gold": 59, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 29, "terms": [1, 5, 7, 4, 6, 2, 3, 8, 7, 6, 2, 8], "gold": 59, "pred": 15, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 30, "terms": [3, 8, 8, 3, 3, 3, 4, 9, 6, 2, 2, 9], "gold": 60, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 30, "terms": [3, 8, 8, 3, 3, 3, 4, 9, 6, 2, 2, 9], "gold": 60, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 31, "terms": [4, 1, 2, 2, 6, 3, 4, 1, 3, 3, 5, 9], "gold": 43, "pred": 28, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 31, "terms": [4, 1, 2, 2, 6, 3, 4, 1, 3, 3, 5, 9], "gold": 43, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 32, "terms": [7, 1, 6, 4, 5, 7, 3, 8, 4, 2, 6, 9], "gold": 62, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 32, "terms": [7, 1, 6, 4, 5, 7, 3, 8, 4, 2, 6, 9], "gold": 62, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 33, "terms": [2, 4, 8, 4, 6, 9, 3, 8, 6, 3, 1, 2], "gold": 56, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 33, "terms": [2, 4, 8, 4, 6, 9, 3, 8, 6, 3, 1, 2], "gold": 56, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 34, "terms": [2, 5, 6, 6, 7, 2, 5, 9, 6, 3, 7, 3], "gold": 61, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 34, "terms": [2, 5, 6, 6, 7, 2, 5, 9, 6, 3, 7, 3], "gold": 61, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 35, "terms": [6, 4, 7, 9, 7, 4, 5, 3, 4, 5, 1, 6], "gold": 61, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 35, "terms": [6, 4, 7, 9, 7, 4, 5, 3, 4, 5, 1, 6], "gold": 61, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 36, "terms": [4, 4, 1, 3, 3, 2, 7, 5, 9, 4, 9, 6], "gold": 57, "pred": 44, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 36, "terms": [4, 4, 1, 3, 3, 2, 7, 5, 9, 4, 9, 6], "gold": 57, "pred": 50, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 37, "terms": [8, 7, 9, 1, 5, 1, 8, 3, 6, 7, 5, 9], "gold": 69, "pred": 58, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 37, "terms": [8, 7, 9, 1, 5, 1, 8, 3, 6, 7, 5, 9], "gold": 69, "pred": 64, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 38, "terms": [6, 5, 7, 6, 3, 2, 4, 9, 5, 6, 4, 3], "gold": 60, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 38, "terms": [6, 5, 7, 6, 3, 2, 4, 9, 5, 6, 4, 3], "gold": 60, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "direct", "idx": 39, "terms": [6, 3, 4, 9, 2, 7, 6, 9, 5, 3, 9, 8], "gold": 71, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 12, "cond": "cot", "idx": 39, "terms": [6, 3, 4, 9, 2, 7, 6, 9, 5, 3, 9, 8], "gold": 71, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 0, "terms": [5, 7, 5, 1, 4, 2, 7, 7, 9, 7, 6, 6, 7, 1, 1, 4], "gold": 79, "pred": 44, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 0, "terms": [5, 7, 5, 1, 4, 2, 7, 7, 9, 7, 6, 6, 7, 1, 1, 4], "gold": 79, "pred": 64, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 1, "terms": [7, 6, 7, 3, 1, 2, 6, 8, 3, 2, 3, 2, 9, 1, 6, 8], "gold": 74, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 1, "terms": [7, 6, 7, 3, 1, 2, 6, 8, 3, 2, 3, 2, 9, 1, 6, 8], "gold": 74, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 2, "terms": [1, 5, 6, 3, 1, 9, 3, 7, 5, 3, 9, 1, 1, 1, 5, 8], "gold": 68, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 2, "terms": [1, 5, 6, 3, 1, 9, 3, 7, 5, 3, 9, 1, 1, 1, 5, 8], "gold": 68, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 3, "terms": [3, 8, 2, 9, 3, 5, 9, 5, 1, 8, 4, 6, 8, 3, 6, 1], "gold": 81, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 3, "terms": [3, 8, 2, 9, 3, 5, 9, 5, 1, 8, 4, 6, 8, 3, 6, 1], "gold": 81, "pred": 15, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 4, "terms": [6, 5, 6, 4, 6, 1, 7, 1, 8, 7, 6, 9, 8, 8, 3, 5], "gold": 90, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 4, "terms": [6, 5, 6, 4, 6, 1, 7, 1, 8, 7, 6, 9, 8, 8, 3, 5], "gold": 90, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 5, "terms": [5, 5, 8, 9, 2, 5, 8, 3, 9, 6, 6, 1, 3, 1, 6, 1], "gold": 78, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 5, "terms": [5, 5, 8, 9, 2, 5, 8, 3, 9, 6, 6, 1, 3, 1, 6, 1], "gold": 78, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 6, "terms": [3, 2, 3, 4, 7, 2, 1, 4, 9, 2, 9, 3, 7, 5, 2, 6], "gold": 69, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 6, "terms": [3, 2, 3, 4, 7, 2, 1, 4, 9, 2, 9, 3, 7, 5, 2, 6], "gold": 69, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 7, "terms": [1, 6, 5, 4, 9, 1, 7, 1, 3, 9, 6, 8, 9, 3, 5, 4], "gold": 81, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 7, "terms": [1, 6, 5, 4, 9, 1, 7, 1, 3, 9, 6, 8, 9, 3, 5, 4], "gold": 81, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 8, "terms": [6, 6, 3, 7, 9, 6, 1, 5, 4, 9, 8, 5, 6, 5, 8, 5], "gold": 93, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 8, "terms": [6, 6, 3, 7, 9, 6, 1, 5, 4, 9, 8, 5, 6, 5, 8, 5], "gold": 93, "pred": 75, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 9, "terms": [8, 6, 9, 8, 4, 7, 7, 4, 3, 7, 5, 9, 4, 9, 6, 3], "gold": 99, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 9, "terms": [8, 6, 9, 8, 4, 7, 7, 4, 3, 7, 5, 9, 4, 9, 6, 3], "gold": 99, "pred": 118, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 10, "terms": [6, 7, 7, 3, 3, 4, 3, 5, 4, 8, 1, 9, 7, 1, 5, 3], "gold": 76, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 10, "terms": [6, 7, 7, 3, 3, 4, 3, 5, 4, 8, 1, 9, 7, 1, 5, 3], "gold": 76, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 11, "terms": [1, 9, 6, 9, 4, 1, 4, 6, 5, 6, 1, 5, 9, 2, 9, 8], "gold": 85, "pred": 54, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 11, "terms": [1, 9, 6, 9, 4, 1, 4, 6, 5, 6, 1, 5, 9, 2, 9, 8], "gold": 85, "pred": 15, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 12, "terms": [3, 1, 6, 5, 3, 1, 2, 3, 3, 3, 3, 2, 5, 6, 4, 8], "gold": 58, "pred": 35, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 12, "terms": [3, 1, 6, 5, 3, 1, 2, 3, 3, 3, 3, 2, 5, 6, 4, 8], "gold": 58, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 13, "terms": [3, 4, 3, 3, 9, 6, 3, 8, 2, 5, 4, 7, 9, 3, 8, 4], "gold": 81, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 13, "terms": [3, 4, 3, 3, 9, 6, 3, 8, 2, 5, 4, 7, 9, 3, 8, 4], "gold": 81, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 14, "terms": [2, 9, 1, 6, 5, 2, 1, 9, 4, 5, 3, 2, 1, 3, 8, 9], "gold": 70, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 14, "terms": [2, 9, 1, 6, 5, 2, 1, 9, 4, 5, 3, 2, 1, 3, 8, 9], "gold": 70, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 15, "terms": [3, 6, 2, 7, 6, 7, 4, 9, 5, 3, 2, 7, 1, 1, 3, 1], "gold": 67, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 15, "terms": [3, 6, 2, 7, 6, 7, 4, 9, 5, 3, 2, 7, 1, 1, 3, 1], "gold": 67, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 16, "terms": [5, 1, 9, 8, 7, 3, 5, 4, 3, 7, 9, 5, 1, 7, 1, 1], "gold": 76, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 16, "terms": [5, 1, 9, 8, 7, 3, 5, 4, 3, 7, 9, 5, 1, 7, 1, 1], "gold": 76, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 17, "terms": [7, 6, 2, 6, 6, 4, 6, 1, 3, 7, 9, 3, 1, 4, 7, 9], "gold": 81, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 17, "terms": [7, 6, 2, 6, 6, 4, 6, 1, 3, 7, 9, 3, 1, 4, 7, 9], "gold": 81, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 18, "terms": [2, 6, 3, 6, 7, 7, 1, 8, 5, 9, 7, 2, 3, 3, 4, 6], "gold": 79, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 18, "terms": [2, 6, 3, 6, 7, 7, 1, 8, 5, 9, 7, 2, 3, 3, 4, 6], "gold": 79, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 19, "terms": [9, 2, 1, 9, 8, 3, 2, 4, 5, 2, 5, 6, 7, 1, 3, 9], "gold": 76, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 19, "terms": [9, 2, 1, 9, 8, 3, 2, 4, 5, 2, 5, 6, 7, 1, 3, 9], "gold": 76, "pred": 64, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 20, "terms": [6, 4, 6, 9, 1, 4, 7, 8, 8, 6, 8, 5, 9, 2, 9, 5], "gold": 97, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 20, "terms": [6, 4, 6, 9, 1, 4, 7, 8, 8, 6, 8, 5, 9, 2, 9, 5], "gold": 97, "pred": 150, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 21, "terms": [7, 3, 8, 7, 6, 8, 5, 1, 1, 1, 3, 8, 6, 9, 9, 7], "gold": 89, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 21, "terms": [7, 3, 8, 7, 6, 8, 5, 1, 1, 1, 3, 8, 6, 9, 9, 7], "gold": 89, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 22, "terms": [5, 3, 7, 6, 7, 5, 6, 4, 2, 2, 5, 4, 8, 4, 6, 2], "gold": 76, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 22, "terms": [5, 3, 7, 6, 7, 5, 6, 4, 2, 2, 5, 4, 8, 4, 6, 2], "gold": 76, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 23, "terms": [7, 1, 1, 4, 6, 4, 7, 4, 5, 1, 9, 8, 9, 4, 5, 5], "gold": 80, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 23, "terms": [7, 1, 1, 4, 6, 4, 7, 4, 5, 1, 9, 8, 9, 4, 5, 5], "gold": 80, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 24, "terms": [1, 2, 5, 2, 8, 6, 7, 5, 3, 2, 3, 6, 3, 8, 2, 5], "gold": 68, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 24, "terms": [1, 2, 5, 2, 8, 6, 7, 5, 3, 2, 3, 6, 3, 8, 2, 5], "gold": 68, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 25, "terms": [9, 3, 1, 2, 7, 9, 9, 1, 1, 6, 2, 5, 1, 4, 9, 6], "gold": 75, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 25, "terms": [9, 3, 1, 2, 7, 9, 9, 1, 1, 6, 2, 5, 1, 4, 9, 6], "gold": 75, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 26, "terms": [7, 9, 6, 2, 6, 4, 3, 2, 2, 3, 8, 8, 1, 3, 6, 8], "gold": 78, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 26, "terms": [7, 9, 6, 2, 6, 4, 3, 2, 2, 3, 8, 8, 1, 3, 6, 8], "gold": 78, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 27, "terms": [8, 5, 1, 7, 8, 9, 4, 3, 4, 7, 8, 5, 5, 8, 9, 2], "gold": 93, "pred": 49, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 27, "terms": [8, 5, 1, 7, 8, 9, 4, 3, 4, 7, 8, 5, 5, 8, 9, 2], "gold": 93, "pred": 85, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 28, "terms": [3, 5, 7, 3, 7, 6, 3, 2, 7, 3, 3, 8, 6, 5, 9, 2], "gold": 79, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 28, "terms": [3, 5, 7, 3, 7, 6, 3, 2, 7, 3, 3, 8, 6, 5, 9, 2], "gold": 79, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 29, "terms": [8, 7, 9, 6, 1, 8, 4, 9, 1, 2, 6, 3, 1, 1, 1, 4], "gold": 71, "pred": 55, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 29, "terms": [8, 7, 9, 6, 1, 8, 4, 9, 1, 2, 6, 3, 1, 1, 1, 4], "gold": 71, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 30, "terms": [7, 3, 6, 9, 1, 1, 3, 2, 4, 5, 9, 7, 8, 5, 5, 6], "gold": 81, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 30, "terms": [7, 3, 6, 9, 1, 1, 3, 2, 4, 5, 9, 7, 8, 5, 5, 6], "gold": 81, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 31, "terms": [8, 3, 9, 3, 5, 5, 3, 8, 1, 8, 3, 7, 4, 3, 2, 3], "gold": 75, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 31, "terms": [8, 3, 9, 3, 5, 5, 3, 8, 1, 8, 3, 7, 4, 3, 2, 3], "gold": 75, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 32, "terms": [5, 8, 7, 9, 2, 4, 3, 6, 4, 2, 5, 2, 3, 8, 6, 2], "gold": 76, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 32, "terms": [5, 8, 7, 9, 2, 4, 3, 6, 4, 2, 5, 2, 3, 8, 6, 2], "gold": 76, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 33, "terms": [7, 6, 2, 5, 3, 4, 2, 1, 4, 7, 7, 1, 7, 6, 5, 8], "gold": 75, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 33, "terms": [7, 6, 2, 5, 3, 4, 2, 1, 4, 7, 7, 1, 7, 6, 5, 8], "gold": 75, "pred": 60, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 34, "terms": [5, 9, 5, 8, 5, 2, 6, 1, 2, 1, 6, 5, 4, 7, 7, 3], "gold": 76, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 34, "terms": [5, 9, 5, 8, 5, 2, 6, 1, 2, 1, 6, 5, 4, 7, 7, 3], "gold": 76, "pred": 75, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 35, "terms": [7, 5, 9, 1, 5, 2, 8, 3, 4, 8, 6, 3, 8, 1, 6, 1], "gold": 77, "pred": 45, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 35, "terms": [7, 5, 9, 1, 5, 2, 8, 3, 4, 8, 6, 3, 8, 1, 6, 1], "gold": 77, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 36, "terms": [1, 7, 6, 9, 3, 7, 7, 2, 7, 6, 2, 4, 1, 1, 3, 9], "gold": 75, "pred": 42, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 36, "terms": [1, 7, 6, 9, 3, 7, 7, 2, 7, 6, 2, 4, 1, 1, 3, 9], "gold": 75, "pred": 14, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 37, "terms": [6, 3, 9, 5, 7, 3, 1, 7, 7, 4, 8, 4, 1, 6, 4, 5], "gold": 80, "pred": 44, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 37, "terms": [6, 3, 9, 5, 7, 3, 1, 7, 7, 4, 8, 4, 1, 6, 4, 5], "gold": 80, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 38, "terms": [7, 7, 6, 3, 5, 6, 3, 1, 8, 2, 8, 4, 1, 6, 2, 2], "gold": 71, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 38, "terms": [7, 7, 6, 3, 5, 6, 3, 1, 8, 2, 8, 4, 1, 6, 2, 2], "gold": 71, "pred": 18, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "direct", "idx": 39, "terms": [6, 1, 8, 6, 6, 1, 5, 8, 4, 9, 3, 3, 8, 2, 7, 8], "gold": 85, "pred": 48, "correct": false}
+{"model": "qwen-dp05", "k": 16, "cond": "cot", "idx": 39, "terms": [6, 1, 8, 6, 6, 1, 5, 8, 4, 9, 3, 3, 8, 2, 7, 8], "gold": 85, "pred": 18, "correct": false}
